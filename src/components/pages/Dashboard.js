@@ -20,10 +20,10 @@ const Dashboard = () => {
   const { user, token } = useAuth();
   const [blogs, setBlogs] = useState([]);
   const [analytics, setAnalytics] = useState({
-    totalBlogs: 0,
-    totalLikes: 0,
-    totalComments: 0,
-    totalShares: 0,
+    totalBlogs: 9,
+    totalLikes: 100,
+    totalComments: 50,
+    totalShares: 450,
   });
   const [searchQuery, setSearchQuery] = useState("");
   const [sortOrder, setSortOrder] = useState("asc");

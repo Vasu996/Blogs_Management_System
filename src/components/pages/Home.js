@@ -10,63 +10,64 @@ function Home() {
       { 
         id: 1, 
         title: "Mastering React Hooks", 
-        image: "public/Assets/Mastering React Hooks.png", 
+        image: "Assets/Mastering React Hooks.png", 
         author: "John Doe", 
         description: "Mastering React Hooks is essential for modern React development, enabling functional components to manage state, side effects, and context without relying on class components." 
       },
       { 
         id: 2, 
         title: "The Future of AI in 2025", 
-        image: "public/Assets/The Future of AI in 2025.jpeg", 
+        image: "Assets/The Future of AI in 2025.jpeg", 
         author: "Jane Smith", 
         description: "Explore AI advancements." 
       },
       { 
         id: 3, 
         title: "Top 10 JavaScript Tips", 
-        image: "public/Assets/Top 10 JavaScript Tips.png", 
+        image: "Assets/CSS Tricks for Developers.jpeg", // Corrected path", 
         author: "Mike Johnson", 
         description: "Improve JavaScript skills." 
       },
       { 
         id: 4, 
         title: "CSS Tricks for Developers", 
-        image: "public/Assets/CSS Tricks for Developers.png", 
+        image: "Assets/CSS Tricks for Developers.jpeg", 
         author: "Emily Davis", 
         description: "Advanced CSS tips." 
       },
       { 
         id: 5, 
         title: "Why TypeScript is the Future", 
-        image: "public/Assets/Why TypeScript is the Future.jpeg", 
+        image: "Assets/Why TypeScript is the Future.jpeg", 
         author: "Chris Wilson", 
         description: "Why devs love TypeScript." 
       },
       { 
         id: 6, 
         title: "Exploring Node.js Performance", 
-        image: "public/Assets/Exploring Nodejs Performance.png", 
+        image: "Assets/Exploring Node.js Performance.png", // Corrected path
         author: "Robert Brown", 
         description: "Optimize Node.js backend." 
-      },
+      },  
       { 
         id: 7, 
         title: "Cloud Computing Trends 2025", 
-        image: "public/Assets/Cloud Computing Trends 2025.jpeg", 
+        image: "Assets/Cloud Computing Trends 2025.jpeg", 
         author: "Sophia Miller", 
         description: "Latest cloud computing insights." 
       },
       { 
         id: 8, 
         title: "Introduction to Next.js", 
-        image: "public/Assets/Introduction to Nextjs.jpeg", 
+        image: "Assets/Introduction to Next.js.jpg", // Corrected path
         author: "David Lee", 
         description: "Next.js revolution for React." 
       },
+  
       { 
         id: 9, 
         title: "Scaling Databases Effectively", 
-        image: "public/Assets/Scaling Databases Effectively.jpeg", 
+        image: "Assets/Scaling Databases Effectively.jpeg", 
         author: "Laura Adams", 
         description: "Best database scaling practices." 
       },
